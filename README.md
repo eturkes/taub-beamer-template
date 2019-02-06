@@ -21,3 +21,7 @@
 # taub-beamer-template
 
 [Example PDF](https://drive.google.com/file/d/1DMka_aBW6tUW-djon_xyrElIyV6JjOIo/view?usp=sharing)
+
+Before using template, download the following Google Drive folder holding image files:  
+https://drive.google.com/drive/folders/1GpQiwd397VQKAxPGwP4eX0WZam2V3Wf4?usp=sharing  
+Then rename the folder as "binary" in the top-level of this repository.
