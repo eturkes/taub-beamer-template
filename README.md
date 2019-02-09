@@ -24,4 +24,4 @@
 
 Before using template, download the following Google Drive folder holding image files:  
 https://drive.google.com/drive/folders/1GpQiwd397VQKAxPGwP4eX0WZam2V3Wf4?usp=sharing  
-Then rename the folder as "binary" in the top-level of this repository.
+Then rename the folder as "gdrive" in the top-level of this repository.
