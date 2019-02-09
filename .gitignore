@@ -278,3 +278,7 @@ TSWLatexianTemp*
 
 # Things that should not be tracked by Git, so are instead stored in Google Drive
 /gdrive/
+
+# Although images should be ignored, this rule is needed to track symlinks to gdrive
+# Will implement cleaner solution later on
+!*.png
