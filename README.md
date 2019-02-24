@@ -18,7 +18,7 @@
     Emir Turkes can be contacted at eturkes@bu.edu
 -->
 
-# taub-beamer-template
+# Taub Beamer Template
 
 [Example PDF](https://drive.google.com/file/d/1DMka_aBW6tUW-djon_xyrElIyV6JjOIo/view?usp=sharing)
 
