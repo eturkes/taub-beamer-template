@@ -19,7 +19,7 @@
 -->
 
 # Taub Beamer Template
-#### *This project is generally feature complete*
+#### *This project is considered complete and should not see major updates*
 
 [Example PDF](https://drive.google.com/file/d/1DMka_aBW6tUW-djon_xyrElIyV6JjOIo/view?usp=sharing)
 
